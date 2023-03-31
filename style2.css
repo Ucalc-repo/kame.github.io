@@ -1,0 +1,81 @@
+body{
+    margin: 0px;
+    background-color: #ffea95;
+    overflow-x: hidden;
+}
+
+h1{
+    margin: 0px;
+}
+
+header{
+    background-color: #5ce1e6;
+}
+
+a:link {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+ }
+ a:visited {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+ }
+
+ a:active {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+ }
+
+#logo{
+    width: 200px;
+    height: auto;
+}
+
+
+#log-in{
+    width: 50px;
+    height: auto;
+    position: relative;
+}
+
+#shopping-bag{
+    width: 50px;
+    height: auto;
+    position: relative;
+}
+
+.right-icons{
+    float: right;
+    padding: 10px;
+    border: 50px;
+}
+
+.sample-container{
+    width: 100px;
+    height: 200px;
+    position: absolute;
+    align-items: center;
+}
+
+.sample-img-1{
+    width: 300px;
+    height: auto;
+}
+
+.fb-logo{
+    width: 30px;
+    height: auto;
+}
+
+.kame-ftr-logo{
+    width: 25px;
+    height: auto;
+}
+
+.insta-logo{
+    width: 25px;
+    height: auto;
+}
+
