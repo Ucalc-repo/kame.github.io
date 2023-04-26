@@ -152,6 +152,12 @@ a:link {
     color: #333333;
     font-size: 1.2rem;
     font-weight: 400;
+    text-decoration: line-trough;
+}
+.n-price{
+        color: #333333;
+    font-size: 1.2rem;
+    font-weight: 400;
 }
 .product-box:hover{
     box-shadow: 2px 2px 30px rgba(0,0,0,0.1);
