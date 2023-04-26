@@ -149,13 +149,13 @@ a:link {
     color: #727272;
 }
 .p-price{
+    text-decoration: line-through;
     color: #333333;
     font-size: 1.2rem;
     font-weight: 400;
-    text-decoration: line-trough;
 }
 .n-price{
-        color: #333333;
+    color: #333333;
     font-size: 1.2rem;
     font-weight: 400;
 }
