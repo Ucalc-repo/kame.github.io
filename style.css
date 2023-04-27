@@ -1,3 +1,19 @@
+.container {
+    display: flex; /* establecemos el contenedor como flex */
+    justify-content: space-between; /* distribuimos los elementos equitativamente */
+    align-items: center; /* centramos verticalmente los elementos */
+  }
+  
+  .container img {
+    max-width: 50%; /* establecemos el ancho máximo de la imagen */
+    height: auto; /* hacemos que la altura se ajuste automáticamente */
+  }
+  
+  .container p {
+    text-align: justify; /* justificamos el texto */
+    max-width: 50%; /* establecemos el ancho máximo del texto */
+  }
+
 body{
     margin: 0px;
     background-color: #ffea95;
