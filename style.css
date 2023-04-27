@@ -1,6 +1,6 @@
 .container {
     display: flex; /* establecemos el contenedor como flex */
-    justify-content: space-between; /* distribuimos los elementos equitativamente */
+    justify-content: center; /* distribuimos los elementos equitativamente */
     align-items: center; /* centramos verticalmente los elementos */
     padding: 100px;
   }
